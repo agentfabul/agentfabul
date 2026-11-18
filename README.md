@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="agentfabul — full-stack engineer building tools that run real operations"/>
+  <img src="./header.svg" width="100%" alt="agentfabul — full-stack engineer building tools that run real operations"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-3fb950?style=flat-square&labelColor=0a1628" alt="Open to collaborate"/>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ### Boot sequence
 
@@ -26,7 +26,7 @@
 @@ directive: "If it's done in Excel twice, it should be an app." @@
 ```
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ### Installed modules
 
@@ -45,7 +45,7 @@
   </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ### Active builds
 
@@ -94,7 +94,7 @@
   </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ### Diagnostics
 
@@ -111,7 +111,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=agentfabul&bg_color=0a1628&color=8fb3d1&line=22d3ee&point=f5a524&area=true&area_color=22d3ee&hide_border=true" width="100%" alt="Contribution activity"/>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="./divider.svg" width="100%" alt=""/>
 
 ### Open a channel
 
@@ -120,5 +120,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by"/>
+  <img src="./footer.svg" width="100%" alt="Thanks for stopping by"/>
 </p>
