@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="Thanks for stopping by">
+  <defs>
+    <pattern id="hz" width="28" height="12" patternUnits="userSpaceOnUse" patternTransform="skewX(-45)">
+      <rect width="14" height="12" fill="#f5a524"/><rect x="14" width="14" height="12" fill="#0a1628"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="90" fill="#0a1628"/>
+  <rect width="1200" height="12" fill="url(#hz)"/>
+  <text x="600" y="60" text-anchor="middle" font-family="JetBrains Mono, ui-monospace, Menlo, Consolas, monospace" font-size="18" fill="#4c6a88">Thanks for stopping by. Unit returning to work.</text>
+</svg>
