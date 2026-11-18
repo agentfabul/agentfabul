@@ -94,7 +94,7 @@ const agentfabul = {
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=agentfabul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=38bdf8&text_color=e2e8f0&count_private=true&include_all_commits=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=agentfabul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=38bdf8&text_color=e2e8f0" alt="stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agentfabul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=e2e8f0&langs_count=8" alt="langs"/>
 </p>
 
